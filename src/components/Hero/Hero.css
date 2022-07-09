@@ -166,3 +166,9 @@
     color: whitesmoke;
     font-size: 22px;
 }
+
+.hero-blur{
+    width: 22rem;
+    height: 30rem;
+    left: 0;
+}

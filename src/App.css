@@ -44,3 +44,11 @@
   /* color: orange; */
   
 }
+
+.blur{
+  background: orangered;
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(150px);
+  z-index: -9;
+}
